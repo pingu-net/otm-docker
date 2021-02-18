@@ -1,2 +1,2 @@
-# otm-Docker
-Specific Repo of OpenTopoMap belonging to Schutz &amp; Rettung Zürich
+# otm-docker
+SRZ spezifisches Repo von OpenTopoMap von der-stefan
